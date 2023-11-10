@@ -10,5 +10,5 @@ Copy the [.env.example](https://github.com/nuageeee/djs-boilerplate/blob/master/
 
 Add your information in the .env file.
 
-Then, type node main.js in your terminal;
+Then, type node main.js in your terminal;\
 That shoul start the bot.
