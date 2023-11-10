@@ -6,7 +6,7 @@
 </p>
 
 This discord bot was made to help you with the commands/events handling in DJS.
-
+Thanks to [Fyxren](https://github.com/Fyxren/Discord.js-V14-handler/tree/main) for this handler (i use this to made this one)
 #### Installation
 
 Go to [release page](https://github.com/nuageeee/djs-boilerplate/releases) and take the last update.
