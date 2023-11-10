@@ -1,4 +1,10 @@
-### Djs handler boilerplate
+<h1 align="center"> Djs handler boilerplate </h1>
+
+<p align="center">
+    <img src="https://img.shields.io/github/stars/nuageeee/djs-boilerplate?style=for-the-badge" alt="github star">
+    <img src="https://img.shields.io/discord/1138108139443593246?style=for-the-badge&logo=discord
+" alt="discord help server">
+</p>
 
 This discord bot was made to help you with the commands/events handling in DJS.
 
